@@ -1,0 +1,10 @@
+.recipe {
+  display: flex;
+}
+.meal-head {
+  font-size: 10px;
+}
+.image-size {
+  width: 150px;
+  height: 150px;
+}
